@@ -11,7 +11,7 @@
 .content-wrapper {
   width: 100%;
   min-height: 100vh;
-  background-image: linear-gradient(to top, #00024d, #001bb3);
+  background-image: url('oceanbg.jpg');
 
   display: flex;
   justify-content: center;
